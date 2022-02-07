@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>nothing added, this is new template only</p>
       </header>
     </div>
   );
